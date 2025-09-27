@@ -32,7 +32,7 @@ This repository contains a simple **UiPath workflow** that demonstrates the use 
 
 **Example Output:**  
 ### REPEAT
-
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/3566ecd4-6c21-4f33-8976-a07a41e8a2b6" />
 ### DO-WHILE
 <img width="1576" height="836" alt="image" src="https://github.com/user-attachments/assets/dfd5a2aa-c780-4faf-ba0b-223938b9620d" />
 <img width="1598" height="848" alt="image" src="https://github.com/user-attachments/assets/a2f1f172-d457-4093-a197-e49535f6646f" />
