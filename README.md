@@ -35,7 +35,8 @@ This repository contains a simple **UiPath workflow** that demonstrates the use 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8461d81b-07ba-49b5-913d-1b22b3806e4e" />
 
 ### DO-WHILE
-<img width="1911" height="1139" alt="image" src="https://github.com/user-attachments/assets/70ef3971-0398-4b49-a16b-17865dace648" />
+<img width="1576" height="836" alt="image" src="https://github.com/user-attachments/assets/dfd5a2aa-c780-4faf-ba0b-223938b9620d" />
+<img width="1598" height="848" alt="image" src="https://github.com/user-attachments/assets/a2f1f172-d457-4093-a197-e49535f6646f" />
 
 ### WHILE
 <img width="1919" height="1134" alt="image" src="https://github.com/user-attachments/assets/1482525c-bf48-4e1e-9a2d-e19e3f25ed24" />
